@@ -12,7 +12,7 @@ export default function Projects() {
             Projects
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            মুফতী ডঃ এনায়তুল্লাহ আব্বাসীর আলোচনা ও ওয়াজ শুনতে ওনার ফেসবুক এবং ইউটিউব পেইজে চোখ রাখুন। নিচে লিঙ্ক দেয়া রয়েছে।
+            Please Check youtube and facebook page of Dr. Enayetullah Abbasi for more updates
           </p>
         </div>
         <div className="container py-12">

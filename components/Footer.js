@@ -22,7 +22,7 @@ export default function Footer() {
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">
-           ড. এনায়তুল্লাহ আব্বাসি ওয়া সিদ্দিকী এর অনলাইন প্ল্যাটফর্ম
+            ড. এনায়তুল্লাহ আব্বাসি ওয়া সিদ্দিকী এর অনলাইন প্ল্যাটফর্ম
           </Link>
         </div>
       </div>
